@@ -1,3 +1,0 @@
-/home/vadim/repository/Bit operations/build/CMakeFiles/Bit_operations.dir
-/home/vadim/repository/Bit operations/build/CMakeFiles/edit_cache.dir
-/home/vadim/repository/Bit operations/build/CMakeFiles/rebuild_cache.dir
